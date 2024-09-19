@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este script genera un reporte en Notebook de servidores los servidores que se encuentren en Dynatrace. Utiliza consultas DQL (Dynatrace Query Language) para obtener datos de CPU, memoria y disco de cada servidor, y luego estructura estos datos en secciones que se añaden al JSON. Al finalizar, el reporte se guarda como un documento en Dynatrace y se comparte con al grupo Documentos_Shared.
+Este script genera un reporte en Notebook de los servidores que se encuentren en Dynatrace. Utiliza consultas DQL (Dynatrace Query Language) para obtener datos de CPU, memoria y disco de cada servidor, y luego estructura estos datos en secciones que se añaden al JSON. Al finalizar, el reporte se guarda como un documento en Dynatrace y se comparte con al grupo Documentos_Shared.
 
 ## Dependencias
 
