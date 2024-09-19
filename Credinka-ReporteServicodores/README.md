@@ -46,6 +46,7 @@ Devuelve el JSON actualizado con las secciones correspondientes.
   ![image](https://github.com/user-attachments/assets/fe5727d1-5bdb-4a70-b387-a25979ada4e3)
 3. **Ingresar al link Generado**
 2. **Ejecutar *Rerun sections***
+   
    ![image](https://github.com/user-attachments/assets/273ba794-549b-42bd-8cb8-ecc01de0c8f8)
 
    ![image](https://github.com/user-attachments/assets/382dd65e-90da-4782-b574-d64a46fb2086)
