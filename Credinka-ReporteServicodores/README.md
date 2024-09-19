@@ -1,4 +1,4 @@
-# Documentación de la Automatización Reporte Servidores
+# Documentación de la Automatización Reportes Notebook
 **Autor**: Miguel Rincon Gutierrez
 **Fecha**: 19-09-2024
 **Cliente**: Credinka
